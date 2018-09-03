@@ -1,0 +1,5 @@
+{
+  "username": "USERNAME",
+  "password_salt": "SALT",
+  "password_hash": "PASSWORD_HASH"
+}
