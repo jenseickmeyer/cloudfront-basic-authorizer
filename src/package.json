@@ -10,9 +10,10 @@
     "test": "mocha tests/unit/"
   },
   "devDependencies": {
-    "eslint": "^7.1.0",
-    "mocha": "^6.2.3",
+    "eslint": "^7.5.0",
+    "mocha": "^8.0.1",
     "sinon": "^7.4.1",
-    "chai": "^4.2.0"
+    "chai": "^4.2.0",
+    "lodash": ">=4.17.19"
   }
 }
